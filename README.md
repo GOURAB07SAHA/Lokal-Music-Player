@@ -101,7 +101,7 @@ Playback progress and seek functionality are handled through native audio callba
 
 ## 📁 Submission Requirements
 
-* **GitHub Repository**: [Insert Link]
+* **GitHub Repository**: [https://github.com/GOURAB07SAHA/Lokal-Music-Player]
 * **APK File**: [Insert Link / Location]
 * **Demo Video**: [Insert 2–3 minute demo link showing background playback and state sync]
 
