@@ -103,18 +103,12 @@ Playback progress and seek functionality are handled through native audio callba
 
 * **GitHub Repository**: [https://github.com/GOURAB07SAHA/Lokal-Music-Player]
 * **APK File**: [Insert Link / Location]
-* **Demo Video**: [Insert 2–3 minute demo link showing background playback and state sync]
 
 ---
 
 ## 📝 Final Submission Checklist
 
 * ✅ APK builds successfully and runs on Android devices
-* ✅ Demo video clearly shows:
-
-  * Background playback
-  * Mini Player & Full Player synchronization
-  * Queue persistence after app restart
 * ✅ No mock data used
 * ✅ All data fetched live from: [https://saavn.sumit.co/](https://saavn.sumit.co/)
 
