@@ -102,7 +102,7 @@ Playback progress and seek functionality are handled through native audio callba
 ## 📁 Submission Requirements
 
 * **GitHub Repository**: [https://github.com/GOURAB07SAHA/Lokal-Music-Player]
-* **APK File**: [Insert Link / Location]
+* **APK File**: [https://expo.dev/accounts/gourab07saha07/projects/MusicPlayerApp/builds/eaf49230-2f04-4c46-8753-03418413c014#run-gradlew]
 
 ---
 
