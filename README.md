@@ -9,7 +9,7 @@ A high-performance music streaming application built with **React Native (Expo)*
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/GOURAB07SAHA/Lokal-Music-Player.git
 cd MusicPlayerApp
 ```
 
