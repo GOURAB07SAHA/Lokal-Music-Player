@@ -1,35 +1,47 @@
 {
   "expo": {
-    "name": "MusicPlayerApp",
-    "slug": "MusicPlayerApp",
+    "name": "Lokal Music Player",
+    "slug": "lokal-music-player",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "userInterfaceStyle": "dark",
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121212"
     },
-    "ios": {
-      "supportsTablet": true
-    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "android": {
+      "package": "com.gourab.musicplayerapp",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#121212"
       },
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false,
-      "package": "com.gourab07saha07.MusicPlayerApp"
+      "permissions": [
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        "WAKE_LOCK"
+      ]
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
+   "plugins": [
+  [
+    "expo-build-properties",
+    {
+      "android": {
+        "minSdkVersion": 23,
+        "compileSdkVersion": 34,
+        "targetSdkVersion": 34,
+        "buildToolsVersion": "34.0.0"
+      }
+    }
+  ]
+],
     "extra": {
       "eas": {
-        "projectId": "f4849dd1-b841-46fe-b3a6-158eaa44571c"
+        "projectId": "43c1c55e-55b8-4fe4-8315-483fb5018e62"
       }
     }
   }
